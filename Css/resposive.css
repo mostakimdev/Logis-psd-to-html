@@ -93,6 +93,10 @@
   width: 100%;
 }
 
+#call_to_action{
+  background-attachment:scroll;
+}
+
 }
 
 @media (max-width:768px){
@@ -145,4 +149,9 @@
   .hero_left .search_area {
     width: 100%;
 }
+
+.inner_question h2 span {
+  display: none;
+}
+
 }
